@@ -1,0 +1,26 @@
+easy_words_est = '''
+tere
+kiri
+täht
+kodu
+kass
+sõna
+till
+lill
+kole
+maja
+vana
+kana
+kala
+kali
+hari
+nimi
+tort
+siga
+viga
+mees
+saal
+kuri
+keel
+kell
+veel'''.split()
