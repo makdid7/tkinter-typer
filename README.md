@@ -1,4 +1,6 @@
-# Here you can download the game files
-Download & unzip the folder, then open Game.exe
+# Typing Practice Game: English & Estonian
 
-To delete all the scores, go to the "scores" folder and run the "clear-scores" file.
+• Launch via `Game.exe`
+• To reset the leaderboard, run `clear-scores.bat`
+
+A desktop app I built for a free-choice project in 7th grade, using Python's Tkinter GUI toolkit.
