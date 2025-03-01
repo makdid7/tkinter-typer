@@ -167,7 +167,7 @@ a = Label(text='\n\n\nYour word is...',
           bg='#37474F',
           fg='white')
 
-b = Label(text='Quickly, type it in!\n',
+b = Label(text='Quick, type it in!\n',
           font=("Times New Roman", 20),
           bg='#37474F',
           fg='white')
