@@ -1,6 +1,6 @@
 # Tkinter Typer
 
-A fun, simple game for becoming a better typer, expanding your vocab by learning new words, or learning a language. A desktop app I built as part of a free-choice project in 7th grade, using Python's Tkinter GUI toolkit.
+A fun, simple game for becoming a better typer, expanding your vocab by learning new words, or learning a language. A desktop app I built as part of a free-choice 'Creative Project' in 7th grade, using Python's Tkinter GUI toolkit.
 
 ## Built-in languages
 • English
